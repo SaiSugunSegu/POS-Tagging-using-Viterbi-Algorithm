@@ -5,8 +5,8 @@ Traninig Hidden Markov Model to learn Transition Matrix and Emission Matrix usin
 
 
 Topics Discussed:-
-- POS Tagging
-- Markov Chain 
+- POS Tagging (with Penn's)
+- Markov Chain & Bayes Theorem
 - Hidden Markov Model
 - Viterbi Alogorithm
 - Forward Pass & Backward Pass
